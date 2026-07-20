@@ -5,7 +5,7 @@ This is a demonstration project showcasing a clean UI, real‑time inventory man
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Product Management** – Add, edit, delete products with name, price, stock, and category.
 - **Inventory Tracking** – Stock updates automatically on each sale (saved in localStorage).
@@ -18,7 +18,7 @@ This is a demonstration project showcasing a clean UI, real‑time inventory man
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer        | Technology                         |
 |--------------|------------------------------------|
@@ -31,7 +31,7 @@ This is a demonstration project showcasing a clean UI, real‑time inventory man
 
 ---
 
-## 📦 Installation (for local testing)
+##  Installation (for local testing)
 
 1. Clone the repository:
    ```bash
